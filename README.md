@@ -58,6 +58,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Salesforce Professionals Belarus|Salesforce|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, Functional programing|[facebook](https://www.facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://www.meetup.com/Sitecore-User-Group-Belarus/)|
+|Storm the Front|Front-end|[telegram](https://t.me/storm_the_front)<br/> [facebook](https://www.facebook.com/groups/storm.the.front/)<br/> [vk](https://vk.com/storm_the_front)|
 |The Rolling Scopes|Front-end|[facebook](https://www.facebook.com/groups/TheRollingScopes/about/)|
 |UX Belarus|UX|[facebook](https://www.facebook.com/UXBelarus)<br/> [twitter](https://twitter.com/uxbelarus)|
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
