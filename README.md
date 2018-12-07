@@ -45,6 +45,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Minsk Token Economy|Blockchain|[meetup](https://www.meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity|[facebook](https://www.facebook.com/groups/unityMinsk/)|
 |Minsk.rb|Ruby, Ruby on Rails|[facebook](https://www.facebook.com/minskruby/)|
+|Minsk Rust community|Rust|[facebook](https://www.facebook.com/groups/1673382339595171/)|
 |MinskCSS|CSS, HTML|[facebook](https://www.facebook.com/groups/MinskCSS/)|
 |MinskJS|JavaScript|[facebook](https://www.facebook.com/MinskJS/)<br/> [twitter](https://twitter.com/MinskJS)|
 |MLUG (Minsk Linux User Group)|Linux|[mlug.linux.by](http://mlug.linux.by/)|
