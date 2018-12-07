@@ -8,6 +8,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |AEM Community Belarus|AEM, Adobe|[aemcommunity.by](http://aemcommunity.by/)|
 |Belarus Azure User Group|Azure|[facebook](https://www.facebook.com/groups/AzureBelarus/about/)|
 |Belarus Big Data User Group|Big Data, Hadoop, Apache Cassandra, NoSQL|[vk](https://vk.com/belarus.big_data.user.group)|
+|Belarus Java User Group|Java, JVM|[belarusjug.org](http://belarusjug.org/)<br/> [facebook](https://www.facebook.com/BelarusJavaUserGroup/)<br/> [vk](https://vk.com/belarusjavausergroup)|
 |Belarus Jenkins|Jenkins, Java|[meetup](https://www.meetup.com/Belarus-Jenkins-Meetup/)|
 |Belarus Linux Community|Linux|[linux.by](https://www.linux.by/)<br/> [facebook](https://www.facebook.com/BelarusLinuxCommunity/)|
 |Belarussian Dev Community||[slack](http://slack.dev.by/)|
