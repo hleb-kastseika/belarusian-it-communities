@@ -58,7 +58,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |PHP of BY|PHP|[telegram](https://www.facebook.com/groups/minsk.user.group/about/)|
 |Pro .Net Community|.NET|[facebook](https://www.facebook.com/Pro-Net-community-323866207998632/)|
 |QA Club Minsk|QA|[qaclub.by](http://www.qaclub.by/)|
-|Salesforce Professionals Belarus|Salesforceб CRM|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
+|Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, Functional programing|[facebook](https://www.facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://www.meetup.com/Sitecore-User-Group-Belarus/)|
 |Storm the Front|Front-end, UI|[telegram](https://t.me/storm_the_front)<br/> [facebook](https://www.facebook.com/groups/storm.the.front/)<br/> [vk](https://vk.com/storm_the_front)|
