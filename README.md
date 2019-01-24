@@ -6,6 +6,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |--- |---|:-:|
 |4Front BY|Front-end, UI|[facebook](https://www.facebook.com/groups/4front/about/)|
 |AEM Community Belarus|AEM, Adobe|[aemcommunity.by](http://aemcommunity.by/)<br/> [facebook](https://www.facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
+|Agile сообщество Беларуси|Agile|[agile.by](http://agile.by/)<br/> [facebook](https://www.facebook.com/agileby)|
 |Belarus Azure User Group|Azure|[facebook](https://www.facebook.com/groups/AzureBelarus/about/)|
 |Belarus Big Data User Group|Big Data, Hadoop, Apache Cassandra, NoSQL|[vk](https://vk.com/belarus.big_data.user.group)|
 |Belarus IT Jobs|Job, Vacancy|[telegram](https://t.me/belit_jobs)|
@@ -15,6 +16,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Belarussian Dev Community||[slack](http://slack.dev.by/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [facebook](https://www.facebook.com/BelarusKUG/)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
 |BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](http://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
+|Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
 |ByGIS|GIS, DB|[bygis.by](https://bygis.by/)<br/> [telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
 |ByOSM|OpenStreetMap|[telegram](https://t.me/byosm)|
 |Clojure BY|Clojure, ClojureScript, JVM|[clojure.by](http://clojure.by/)|
@@ -61,10 +63,13 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, Functional programing|[facebook](https://www.facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://www.meetup.com/Sitecore-User-Group-Belarus/)|
+|Solution Architecture community|SA|[facebook](https://www.facebook.com/groups/SolutionArchitectureGomel)|
 |Storm the Front|Front-end, UI|[telegram](https://t.me/storm_the_front)<br/> [facebook](https://www.facebook.com/groups/storm.the.front/)<br/> [vk](https://vk.com/storm_the_front)|
 |The Rolling Scopes|Front-end, UI|[facebook](https://www.facebook.com/groups/TheRollingScopes/about/)|
 |UX/UI дизайнеры Беларуси|UX, UI|[telegram](https://t.me/designers_belarus)|
 |UX Belarus|UX|[facebook](https://www.facebook.com/UXBelarus)<br/> [twitter](https://twitter.com/uxbelarus)|
+|WebSyndicate||[websyndicate.by](https://websyndicate.by/)<br/> [telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)<br/> [meetup](https://www.meetup.com/websyndicate)|
+|Сообщество бизнес и системных аналитиков Беларуси|BA|[analyst.by](http://analyst.by/)|
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
 |ЦМИТ Диптаун|Hackspace, Prototyping|[cmit.by](http://cmit.by)|
 |Чат IT-Страны||[telegram](https://t.me/itBelarus)|
