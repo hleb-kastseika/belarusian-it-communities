@@ -25,6 +25,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Cyber Academy|Blockchain|[facebook](https://www.facebook.com/cybermeetups/)<br/> [telegram](https://t.me/cyberacademy)<br/> [youtube](https://www.youtube.com/cyberacademy)|
 |DataTalks Belarus||[facebook](https://www.facebook.com/groups/DataTalks)|
 |DevOps|DevOps, CI, CD, Build Tools|[facebook](https://www.facebook.com/groups/391132934426041/about/)|
+|DevOWL Meetup||[vk](https://vk.com/devowl)|
 |Drupal User Group Minsk|Drupal, PHP|[meetup](https://www.meetup.com/drupal-minsk/)|
 |Free Code Camp Minsk|Open Source|[facebook](https://www.facebook.com/groups/free.code.camp.Minsk/about/)|
 |FuncBY|Functional programing|[facebook](https://www.facebook.com/groups/funcby/about/)|
