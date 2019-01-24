@@ -68,6 +68,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |The Rolling Scopes|Front-end, UI|[facebook](https://www.facebook.com/groups/TheRollingScopes/about/)|
 |UX/UI дизайнеры Беларуси|UX, UI|[telegram](https://t.me/designers_belarus)|
 |UX Belarus|UX|[facebook](https://www.facebook.com/UXBelarus)<br/> [twitter](https://twitter.com/uxbelarus)|
+|Vitebsk MiniQ||[vk](https://vk.com/vitebsk_miniq)|
 |WebSyndicate||[websyndicate.by](https://websyndicate.by/)<br/> [telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)<br/> [meetup](https://www.meetup.com/websyndicate)|
 |Сообщество бизнес и системных аналитиков Беларуси|BA|[analyst.by](http://analyst.by/)|
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
