@@ -46,6 +46,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Minsk F# User Group|F#|[facebook](https://www.facebook.com/groups/802737706420426/)<br/> [meetup](https://www.meetup.com/fsharpminsk)|
 |Minsk Legal Hackers||[facebook](https://www.facebook.com/minsklegalhackers)|
 |Minsk Python Meetup|Python|[facebook](https://www.facebook.com/MinskPythonMeetup/)|
+|Minsk Test Automation Meetup|Test Automation|[meetup](https://www.meetup.com/Minsk-Test-Automation-Meetup/) <br/> [facebook](https://www.facebook.com/groups/443004672881047/)|
 |Minsk Token Economy|Blockchain|[meetup](https://www.meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity|[facebook](https://www.facebook.com/groups/unityMinsk/)|
 |Minsk.rb|Ruby, Ruby on Rails|[facebook](https://www.facebook.com/minskruby/)|
