@@ -37,6 +37,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Grodno .NET Community|.NET|[facebook](https://www.facebook.com/grodnonetcommunity/)|
 |Grodno BA Community|BA|[facebook](https://www.facebook.com/GrodnoBA)|
 |Grodno IT Community||[facebook](https://www.facebook.com/GrodnoIT)|
+|Grodno QAmunity|QA|[facebook](https://www.facebook.com/qamunity/)<br/> [vk](https://vk.com/club162875204)|
 |Hackerspace Minsk|Hackspace, IoT, Hardware, Craftsmenship|[facebook](https://www.facebook.com/hs-minsk)<br/> [vk](https://vk.com/hackerspace_minsk)<br/> [youtube](https://www.youtube.com/channel/UCoRCmZJBL-zV3-U5e6iB2gQ)<br/> [github](https://github.com/minsk-hackerspace/)<br/> [instagram](https://www.instagram.com/byhackerspace/)|
 |Imaguru Blockchain Lab|Blockchain|[imaguru.by/blockchain-lab](https://imaguru.by/blockchain-lab/)|
 |IoT Belarus|IoT|[facebook](https://www.facebook.com/groups/iot.belarus.community/about/)|
