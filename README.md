@@ -41,6 +41,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Hackerspace Minsk|Hackspace, IoT, Hardware, Craftsmenship|[facebook](https://www.facebook.com/hs-minsk)<br/> [vk](https://vk.com/hackerspace_minsk)<br/> [youtube](https://www.youtube.com/channel/UCoRCmZJBL-zV3-U5e6iB2gQ)<br/> [github](https://github.com/minsk-hackerspace/)<br/> [instagram](https://www.instagram.com/byhackerspace/)|
 |Imaguru Blockchain Lab|Blockchain|[imaguru.by/blockchain-lab](https://imaguru.by/blockchain-lab/)|
 |IoT Belarus|IoT|[facebook](https://www.facebook.com/groups/iot.belarus.community/about/)|
+|IT Shark||[it-shark.pro](https://it-shark.pro/)<br/> [telegram](https://t.me/itsharkpro)<br/> [facebook](https://www.facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
 |Java Talks BY|Java, JVM|[skype](http://bit.ly/javatalks-by)|
 |JProf BY|Java, JVM|[jprof.by](https://jprof.by/)<br/> [facebook](https://facebook.com/javaprofessionalsby)<br/> [vk](https://vk.com/javaprofessionalsby)<br/> [youtube](https://youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q)<br/> [github](https://github.com/JavaBy)|
 |Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://www.meetup.com/Minsk-Atlassian-User-Group/)|
