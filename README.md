@@ -81,3 +81,9 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
 |ЦМИТ Диптаун|Hackspace, Prototyping|[cmit.by](http://cmit.by)|
 |Чат IT-Страны||[telegram](https://t.me/itBelarus)|
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Gleb Kosteiko](https://github.com/gleb-kosteiko) has waived all copyright and related or neighboring rights to this work.
