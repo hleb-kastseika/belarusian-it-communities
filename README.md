@@ -65,6 +65,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Open Data Science Minsk|Data Science, AI, ML|[telegram](https://t.me/odsminsk)|
 |PHP of BY|PHP|[telegram](https://www.facebook.com/groups/minsk.user.group/about/)|
 |Pro .Net Community|.NET|[facebook](https://www.facebook.com/Pro-Net-community-323866207998632/)|
+|ProductConnect||[facebook](https://www.facebook.com/groups/ProductConnect)|
 |QA Club Minsk|QA|[qaclub.by](http://www.qaclub.by/)|
 |Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, Functional programing|[facebook](https://www.facebook.com/scala.enthusiastsbelarus)|
