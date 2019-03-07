@@ -45,6 +45,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |IT Shark||[it-shark.pro](https://it-shark.pro/)<br/> [telegram](https://t.me/itsharkpro)<br/> [facebook](https://www.facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
 |Java Talks BY|Java, JVM|[skype](http://bit.ly/javatalks-by)|
 |JProf BY|Java, JVM|[jprof.by](https://jprof.by/)<br/> [facebook](https://facebook.com/javaprofessionalsby)<br/> [vk](https://vk.com/javaprofessionalsby)<br/> [youtube](https://youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q)<br/> [github](https://github.com/JavaBy)|
+|JS Machine (Могилев)|JavaScript, Front-end|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 |Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://www.meetup.com/Minsk-Atlassian-User-Group/)|
 |Minsk Cryptography and Blockchain Meetup|Blockchain|[meetup](https://www.meetup.com/Minsk-Cryptography-and-Blockchain-Meetup/)|
 |Minsk F# User Group|F#|[facebook](https://www.facebook.com/groups/802737706420426/)<br/> [meetup](https://www.meetup.com/fsharpminsk)|
@@ -84,7 +85,6 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
 |ЦМИТ Диптаун|Hackspace, Prototyping|[cmit.by](http://cmit.by)|
 |Чат IT-Страны||[telegram](https://t.me/itBelarus)|
-|JS Machine (Могилев)|JavaScript, Front-end|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 
 ## License
 
