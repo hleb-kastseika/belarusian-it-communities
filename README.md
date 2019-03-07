@@ -84,7 +84,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
 |ЦМИТ Диптаун|Hackspace, Prototyping|[cmit.by](http://cmit.by)|
 |Чат IT-Страны||[telegram](https://t.me/itBelarus)|
-|JS Machine|JavaScript, Front-end|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
+|JS Machine (Могилев)|JavaScript, Front-end|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 
 ## License
 
