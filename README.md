@@ -64,6 +64,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |.NET User Group|.NET|[facebook](https://www.facebook.com/groups/dotnet.minsk/about/)|
 |Open Data Belarus||[opendata.by](https://opendata.by/)<br/> [facebook](https://www.facebook.com/groups/opendataby/)<br/> [telegram](https://t.me/opendataby)<br/> [twitter](https://twitter.com/opendataby)<br/> [github](https://github.com/opendataby)|
 |Open Data Science Minsk|Data Science, AI, ML|[telegram](https://t.me/odsminsk)|
+|OpenStreetMap Беларусь|OpenStreetMap|[telegram](https://t.me/byosm)|
 |PHP of BY|PHP|[telegram](https://www.facebook.com/groups/minsk.user.group/about/)|
 |Pro .Net Community|.NET|[facebook](https://www.facebook.com/Pro-Net-community-323866207998632/)|
 |ProductConnect||[facebook](https://www.facebook.com/groups/ProductConnect)|
