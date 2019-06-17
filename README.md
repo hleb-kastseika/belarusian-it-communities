@@ -14,7 +14,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Belarus Jenkins|Jenkins, Java|[meetup](https://www.meetup.com/Belarus-Jenkins-Meetup/)|
 |Belarus Linux Community|Linux|[linux.by](https://www.linux.by/)<br/> [facebook](https://www.facebook.com/BelarusLinuxCommunity/)|
 |Belarusian Dev Community||[slack](http://slack.dev.by/)|
-|Belarusian Salesforce Community|Salesforce, CRM|[salesforce.by](http://salesforce.by)<br/> [facebook](https://www.facebook.com/Salesforce.by/)<br/> [vk](https://vk.com/salesforceby)|
+|Belarusian Salesforce Community|Salesforce, CRM|[salesforce.by](http://salesforce.by)<br/> [facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [facebook](https://www.facebook.com/BelarusKUG/)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
 |BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](http://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
 |Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
