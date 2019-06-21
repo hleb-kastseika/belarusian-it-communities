@@ -23,7 +23,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Clojure BY|Clojure, ClojureScript, JVM|[clojure.by](http://clojure.by/)|
 |CocoaHeads|iOS, Objective C, Swift, C++, Cocoa|[facebook](https://www.facebook.com/groups/iosby/about/)|
 |Comaqa BY|QA|[comaqa.by](https://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
-|ComMIT||[facebook](https://www.facebook.com/groups/commit.mogilev)<br/> [vk](https://vk.com/com_mit)<br/> [telegram](https://t.me/ComMIT_Chat)<br/> [instagram](https://www.instagram.com/commit.mogilev/)|
+|ComMIT|IT education, IT events|[facebook](https://www.facebook.com/groups/commit.mogilev)<br/> [vk](https://vk.com/com_mit)<br/> [telegram](https://t.me/ComMIT_Chat)<br/> [instagram](https://www.instagram.com/commit.mogilev/)|
 |Create IT!||[createit.by](http://createit.by/)<br/> [facebook](https://www.facebook.com/events/1114878155301214/)<br/> [instagram](https://www.instagram.com/we_createit/)|
 |Cyber Academy|Blockchain|[facebook](https://www.facebook.com/cybermeetups/)<br/> [telegram](https://t.me/cyberacademy)<br/> [youtube](https://www.youtube.com/cyberacademy)|
 |DataTalks Belarus||[facebook](https://www.facebook.com/groups/DataTalks)|
