@@ -8,7 +8,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |AEM Community Belarus|AEM, Adobe|[aemcommunity.by](http://aemcommunity.by/)<br/> [facebook](https://www.facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
 |Agile сообщество Беларуси|Agile|[agile.by](http://agile.by/)<br/> [facebook](https://www.facebook.com/agileby)|
 |Angular Belarus|Angular, Front-end, UI|[twitter](https://twitter.com/angularbelarus/)<br/> [telegram](https://t.me/angularbelarus)<br/> [meetup](https://www.meetup.com/angularbelarus/)|
-|Angular Minsk|Angular, Front-end, UI|[facebook](https://www.facebook.com/groups/AngularMinsk)<br/> [meetup](https://www.meetup.com/Angular-Minsk/)|
+|Angular Minsk|Angular, Front-end, UI| [telegram](https://t.me/angularminsk) <br/> [facebook](https://www.facebook.com/groups/AngularMinsk)<br/>[twitter](https://twitter.com/angularminsk) <br/> [meetup](https://www.meetup.com/Angular-Minsk/)|
 |Belarus Azure User Group|Azure|[facebook](https://www.facebook.com/groups/AzureBelarus/about/)|
 |Belarus Big Data User Group|Big Data, Hadoop, Apache Cassandra, NoSQL|[youtube](https://www.youtube.com/channel/UCTSHAPIsJvwXHkDdQ1L-r8w)<br/>[vk](https://vk.com/belarus.big_data.user.group)|
 |Belarus IT Jobs|Job, Vacancy|[telegram](https://t.me/belit_jobs)|
