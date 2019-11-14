@@ -78,7 +78,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, Functional programing|[facebook](https://www.facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://www.meetup.com/Sitecore-User-Group-Belarus/)|
-|Solution Architecture community|SA|[facebook](https://www.facebook.com/groups/SolutionArchitectureGomel)|
+|Solution Architecture community|SA|[community-z](https://community-z.com/communities/sa-gomel)<br/>[facebook](https://www.facebook.com/groups/SolutionArchitectureGomel)<br/>[linkedin](https://www.linkedin.com/groups/8816868)|
 |Storm the Front|Front-end, UI|[telegram](https://t.me/storm_the_front)<br/> [facebook](https://www.facebook.com/groups/storm.the.front/)<br/> [vk](https://vk.com/storm_the_front)|
 |The Rolling Scopes|Front-end, UI|[rollingscopes.com](https://rollingscopes.com/)<br/> [telegram](https://t.me/therollingscopes)<br/>  [facebook](https://www.facebook.com/groups/TheRollingScopes/about/)<br/> [twitter](https://twitter.com/rollingscopes)|
 |UX/UI дизайнеры Беларуси|UX, UI|[telegram](https://t.me/designers_belarus)|
