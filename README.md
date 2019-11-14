@@ -1,4 +1,4 @@
-# List of belarusian IT communities
+# List of Belarusian IT Communities
 
 _If you want to add a community to the list feel free to make pull requests!_
 
