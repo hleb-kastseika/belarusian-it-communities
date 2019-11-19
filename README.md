@@ -93,7 +93,6 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Сообщество бизнес и системных аналитиков Беларуси|BA|[analyst.by](http://analyst.by/)|
 |Фаланстер Минск||[falanster.by](http://falanster.by)<br/> [facebook](https://www.facebook.com/falanster.by)|
 |ЦМИТ Диптаун|Hackspace, Prototyping|[cmit.by](http://cmit.by)|
-|Чат IT-Страны||[telegram](https://t.me/itBelarus)|
 
 ## License
 
