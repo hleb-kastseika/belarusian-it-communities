@@ -23,6 +23,7 @@ _If you want to add a community to the list feel free to make pull requests!_
 |Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
 |ByGIS|GIS, DB|[bygis.by](https://bygis.by/)<br/> [telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
 |ByOSM|OpenStreetMap|[telegram](https://t.me/byosm)|
+|ByCrypto|Cryptography| [telegram](https://t.me/bycryptography)|
 |Clojure BY|Clojure, ClojureScript, JVM|[clojure.by](http://clojure.by/)|
 |Cloud Native Minsk|Cloud, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)<br/> [meetup](https://www.meetup.com/CNCFMinsk/)|
 |CocoaHeads|iOS, Objective C, Swift, C++, Cocoa|[facebook](https://www.facebook.com/groups/iosby/about/)|
