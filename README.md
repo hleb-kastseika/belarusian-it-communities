@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/gleb-kosteiko/belarusian-it-communities/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
 
 | Name | Topics | Links |
 |--- |---|:-:|
