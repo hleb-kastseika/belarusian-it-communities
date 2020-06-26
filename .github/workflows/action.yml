@@ -5,7 +5,7 @@ on:
     branches:
     - master
   schedule:
-  - cron: "0 2 * * *"
+  - cron: "0 0 * * 0"
 
 jobs:
   markdown-link-check:
@@ -13,3 +13,5 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
