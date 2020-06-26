@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/gleb-kosteiko/belarusian-it-communities/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
-![Check Markdown links](https://github.com/gleb-kosteiko/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)
+[![Check Markdown links](https://github.com/gleb-kosteiko/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/gleb-kosteiko/belarusian-it-communities/actions?query=workflow%3A%22Check+Markdown+links%22)
 
 | Name | Topics | Links |
 |--- |---|:-:|
