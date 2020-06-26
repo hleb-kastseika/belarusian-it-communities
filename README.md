@@ -3,6 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/gleb-kosteiko/belarusian-it-communities/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
+![Check Markdown links](https://github.com/gleb-kosteiko/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)
 
 | Name | Topics | Links |
 |--- |---|:-:|
@@ -17,9 +18,9 @@
 |Belarus IT Jobs|job, vacancy|[telegram](https://t.me/belit_jobs)|
 |Belarus Java User Group|Java, JVM|[facebook](https://www.facebook.com/BelarusJavaUserGroup/)<br/> [vk](https://vk.com/belarusjavausergroup)|
 |Belarus Jenkins|Jenkins, Java, CI, CD|[meetup](https://www.meetup.com/Belarus-Jenkins-Meetup/)|
-|Belarus Linux Community|Linux|[linux.by](https://www.linux.by/)<br/> [facebook](https://www.facebook.com/BelarusLinuxCommunity/)|
+|Belarus Linux Community|Linux|[linux.by](https://www.linux.by/)|
 |Belarusian Dev Community||[slack](http://slack.dev.by/)|
-|Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[salesforce.by](http://salesforce.by)<br/> [facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
+|Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[salesforce.by](https://salesforce.by)<br/> [facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [facebook](https://www.facebook.com/BelarusKUG/)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
 |BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](http://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
 |Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
@@ -51,11 +52,9 @@
 |Hackerspace Minsk|Hackspace, IoT, hardware, craftsmenship|[facebook](https://www.facebook.com/hs-minsk)<br/> [vk](https://vk.com/hackerspace_minsk)<br/> [youtube](https://www.youtube.com/channel/UCoRCmZJBL-zV3-U5e6iB2gQ)<br/> [github](https://github.com/minsk-hackerspace/)<br/> [instagram](https://www.instagram.com/byhackerspace/)|
 |IoT Belarus|IoT|[facebook](https://www.facebook.com/groups/iot.belarus.community/about/)|
 |IT Shark||[it-shark.pro](https://it-shark.pro/)<br/> [telegram](https://t.me/itsharkpro)<br/> [facebook](https://www.facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
-|Java Talks BY|Java, JVM|[skype](http://bit.ly/javatalks-by)|
 |JProf BY|Java, JVM|[jprof.by](https://jprof.by/)<br/> [facebook](https://facebook.com/javaprofessionalsby)<br/> [vk](https://vk.com/javaprofessionalsby)<br/> [youtube](https://youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q)<br/> [github](https://github.com/JavaBy)|
 |JS Machine (Могилев)|JavaScript, front-end, web, UI|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 |Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://www.meetup.com/Minsk-Atlassian-User-Group/)|
-|Minsk Cryptography and Blockchain Meetup|blockchain, cryptography|[meetup](https://www.meetup.com/Minsk-Cryptography-and-Blockchain-Meetup/)|
 |Minsk F# User Group|F#, Microsoft|[facebook](https://www.facebook.com/groups/802737706420426/)<br/> [meetup](https://www.meetup.com/fsharpminsk)|
 |Minsk Legal Hackers||[facebook](https://www.facebook.com/minsklegalhackers)|
 |Minsk Python Meetup|Python|[facebook](https://www.facebook.com/MinskPythonMeetup/)|
