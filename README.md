@@ -20,7 +20,7 @@
 |Belarus Jenkins|Jenkins, Java, CI, CD|[meetup](https://www.meetup.com/Belarus-Jenkins-Meetup/)|
 |Belarus Linux Community|Linux|[linux.by](https://www.linux.by/)|
 |Belarusian Dev Community||[slack](http://slack.dev.by/)|
-|Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[salesforce.by](https://salesforce.by)<br/> [facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
+|Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
 |BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](http://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
 |Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
