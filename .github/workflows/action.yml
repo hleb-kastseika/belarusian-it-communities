@@ -18,5 +18,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run check links script
       run: |
-        chmod +x ./check_links.sh
-        ./check_links.sh
+        ls -a
