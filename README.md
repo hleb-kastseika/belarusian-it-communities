@@ -30,7 +30,7 @@
 |Clojure BY|Clojure, ClojureScript, JVM, Lisp|[clojure.by](http://clojure.by/)|
 |Cloud Native Minsk|Clouds, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)<br/> [meetup](https://www.meetup.com/CNCFMinsk/)|
 |CocoaHeads|iOS, Objective C, Swift, C++, Cocoa, Apple|[facebook](https://www.facebook.com/groups/iosby/about/)|
-|Comaqa BY|QA|[comaqa.by](https://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
+|Comaqa BY|QA|[comaqa.by](http://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
 |ComMIT|education, events|[facebook](https://www.facebook.com/groups/commit.mogilev)<br/> [vk](https://vk.com/com_mit)<br/> [telegram](https://t.me/ComMIT_Chat)<br/> [instagram](https://www.instagram.com/commit.mogilev/)|
 |Create IT!||[facebook](https://www.facebook.com/events/1114878155301214/)<br/> [instagram](https://www.instagram.com/we_createit/)|
 |Cyber Academy|blockchain|[facebook](https://www.facebook.com/cybermeetups/)<br/> [telegram](https://t.me/cyberacademy)<br/> [youtube](https://www.youtube.com/cyberacademy)|
