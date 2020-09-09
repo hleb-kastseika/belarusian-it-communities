@@ -18,7 +18,7 @@
 |Belarus IT Jobs|job, vacancy|[telegram](https://t.me/belit_jobs)|
 |Belarus Java User Group|Java, JVM|[facebook](https://www.facebook.com/BelarusJavaUserGroup/)<br/> [vk](https://vk.com/belarusjavausergroup)|
 |Belarus Jenkins|Jenkins, Java, CI, CD|[meetup](https://www.meetup.com/Belarus-Jenkins-Meetup/)|
-|Belarus Linux Community|Linux|[linux.by](https://www.linux.by/)|
+|Belarus Linux Community|Linux, *nix|[linux.by](https://www.linux.by/)|
 |Belarusian Dev Community||[slack](http://slack.dev.by/)|
 |Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
@@ -56,7 +56,7 @@
 |JS Machine (Могилев)|JavaScript, front-end, web, UI|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 |Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://www.meetup.com/Minsk-Atlassian-User-Group/)|
 |Minsk F# User Group|F#, Microsoft|[facebook](https://www.facebook.com/groups/802737706420426/)<br/> [meetup](https://www.meetup.com/fsharpminsk)|
-|Minsk Java Community|Java|[mjc.by](https://mjc.by)<br/> [telegram](https://t.me/mjcby)<br/> [youtube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://www.instagram.com/mjc.talks/)|
+|Minsk Java Community|Java, JVM|[mjc.by](https://mjc.by)<br/> [telegram](https://t.me/mjcby)<br/> [youtube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://www.instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://www.facebook.com/minsklegalhackers)|
 |Minsk Python Meetup|Python|[facebook](https://www.facebook.com/MinskPythonMeetup/)|
 |Minsk Test Automation Meetup|test automation|[meetup](https://www.meetup.com/Minsk-Test-Automation-Meetup/) <br/> [facebook](https://www.facebook.com/groups/443004672881047/)|
@@ -66,7 +66,7 @@
 |Minsk Rust community|Rust|[facebook](https://www.facebook.com/groups/1673382339595171/)|
 |MinskCSS|CSS, HTML, UI, web|[facebook](https://www.facebook.com/groups/MinskCSS/)|
 |MinskJS|JavaScript, UI, web, frontend|[facebook](https://www.facebook.com/MinskJS/)<br/> [twitter](https://twitter.com/MinskJS)|
-|MLUG (Minsk Linux User Group)|Linux|[mlug.linux.by](http://mlug.linux.by/)|
+|MLUG (Minsk Linux User Group)|Linux, *nix|[mlug.linux.by](http://mlug.linux.by/)|
 |MODX Беларусь|MODX|[facebook](https://www.facebook.com/modxby)|
 |Natural Language Processing group Belarus|NLP, data science, data analysis|[nlproc.by](http://nlproc.by/)<br/> [facebook](https://www.facebook.com/groups/nlproc.by/about/)<br/> [twitter](https://twitter.com/nlprocby)<br/> [github](https://github.com/nlprocby)<br/> [meetup](https://www.meetup.com/NLProcBY/)|
 |.NET User Group|.NET, Microsoft|[facebook](https://www.facebook.com/groups/dotnet.minsk/about/)|
