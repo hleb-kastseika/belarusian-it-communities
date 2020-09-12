@@ -4,7 +4,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
 [![Check Markdown links](https://github.com/gleb-kosteiko/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/gleb-kosteiko/belarusian-it-communities/actions?query=workflow%3A%22Check+Markdown+links%22)
 
-Please read the [Contributing Guidelines](https://github.com/gleb-kosteiko/belarusian-it-communities/blob/master/contributing.md) before contributing.
+*Please read the [Contributing Guidelines](https://github.com/gleb-kosteiko/belarusian-it-communities/blob/master/contributing.md) before contributing.*
 
 | Name | Topics | Links |
 |--- |---|:-:|
