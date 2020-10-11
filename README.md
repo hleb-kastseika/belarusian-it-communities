@@ -43,7 +43,7 @@
 |FuncBY|functional programing, Lisp, Haskel, Clojure, Scala|[facebook](https://www.facebook.com/groups/funcby/about/)|
 |Game Jam|game development|[facebook](https://www.facebook.com/groups/ggjby)|
 |GDG|Google technologies, Android|[facebook](https://www.facebook.com/groups/gdgminsk/)|
-|Gophers BY|Go, Golang|[gophers.by](http://gophers.by/)<br/> [facebook](https://facebook.com/groups/gophers.by)<br/> [github](https://www.github.com/gophersby)|
+|Gophers BY|Go, Golang|[facebook](https://facebook.com/groups/gophers.by)<br/> [github](https://www.github.com/gophersby)|
 |GoWay|Go, Golang|[facebook](https://www.facebook.com/gowaymeetup/)|
 |Grodno .NET Community|.NET, Microsoft|[facebook](https://www.facebook.com/grodnonetcommunity/)|
 |Grodno BA Community|BA|[facebook](https://www.facebook.com/GrodnoBA)|
