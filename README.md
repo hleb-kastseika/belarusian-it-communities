@@ -37,6 +37,7 @@
 |DataTalks Belarus||[facebook](https://www.facebook.com/groups/DataTalks)|
 |DesignSpot|UX, design|[telegram](https://t.me/design_spot)<br/> [facebook](https://www.facebook.com/groups/dsgnspot/)|
 |DevOps|DevOps, CI, CD, build tools|[facebook](https://www.facebook.com/groups/391132934426041/about/)|
+|DevOps Minsk|DevOps, CI, CD, build tools|[devopsminsk.by](https://devopsminsk.by/)<br/> [facebook](https://www.facebook.com/DevOpsMinsk/)</br> [telegram](https://t.me/DevOpsMinskChat)<br/> [linkedin](https://www.linkedin.com/company/devopsminsk/)<br/> [youtube](https://www.youtube.com/c/DevOpsMinsk)<br/> [instagram](https://www.instagram.com/devopsminsk/)|
 |DevOWL Meetup||[vk](https://vk.com/devowl)|
 |Drupal User Group Minsk|Drupal, PHP|[meetup](https://www.meetup.com/drupal-minsk/)|
 |Free Code Camp Minsk|Open Source|[facebook](https://www.facebook.com/groups/free.code.camp.Minsk/about/)|
