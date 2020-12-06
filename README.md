@@ -52,7 +52,7 @@
 |Grodno QAmunity|QA|[facebook](https://www.facebook.com/qamunity/)<br/> [vk](https://vk.com/club162875204)|
 |Hackerspace Minsk|Hackspace, IoT, hardware, craftsmenship|[facebook](https://www.facebook.com/hs-minsk)<br/> [vk](https://vk.com/hackerspace_minsk)<br/> [youtube](https://www.youtube.com/channel/UCoRCmZJBL-zV3-U5e6iB2gQ)<br/> [github](https://github.com/minsk-hackerspace/)<br/> [instagram](https://www.instagram.com/byhackerspace/)|
 |IoT Belarus|IoT|[facebook](https://www.facebook.com/groups/iot.belarus.community/about/)|
-|IT Shark||[it-shark.pro](https://it-shark.pro/)<br/> [telegram](https://t.me/itsharkpro)<br/> [facebook](https://www.facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
+|IT Shark||[telegram](https://t.me/itsharkpro)<br/> [facebook](https://www.facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
 |JProf BY|Java, JVM|[jprof.by](https://jprof.by/)<br/> [facebook](https://facebook.com/javaprofessionalsby)<br/> [vk](https://vk.com/javaprofessionalsby)<br/> [youtube](https://youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q)<br/> [github](https://github.com/JavaBy)|
 |JS Machine (Могилев)|JavaScript, front-end, web, UI|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 |Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://www.meetup.com/Minsk-Atlassian-User-Group/)|
