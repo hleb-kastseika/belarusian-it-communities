@@ -60,7 +60,7 @@
 |Minsk Java Community|Java, JVM|[mjc.by](https://mjc.by)<br/> [telegram](https://t.me/mjcby)<br/> [youtube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://www.instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://www.facebook.com/minsklegalhackers)|
 |Minsk Python Meetup|Python|[facebook](https://www.facebook.com/MinskPythonMeetup/)|
-|Minsk Test Automation Meetup|test automation|[meetup](https://www.meetup.com/Minsk-Test-Automation-Meetup/) <br/> [facebook](https://www.facebook.com/groups/443004672881047/)|
+|Minsk Test Automation Meetup|test automation|[facebook](https://www.facebook.com/groups/443004672881047/)|
 |Minsk Token Economy|blockchain|[meetup](https://www.meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity, game development|[facebook](https://www.facebook.com/groups/unityMinsk/)|
 |Minsk.rb|Ruby, Ruby on Rails|[facebook](https://www.facebook.com/minskruby/)|
