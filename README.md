@@ -1,4 +1,4 @@
-# List of Belarusian IT Communities
+# Belarusian IT Communities
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/gleb-kosteiko/belarusian-it-communities/graphs/contributors)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
