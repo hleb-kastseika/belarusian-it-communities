@@ -27,7 +27,6 @@
 |ByGIS|GIS, DB|[bygis.by](https://bygis.by/)<br/> [telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
 |ByOSM|OpenStreetMap|[telegram](https://t.me/byosm)|
 |ByCrypto|cryptography| [telegram](https://t.me/bycryptography)|
-|Clojure BY|Clojure, ClojureScript, JVM, Lisp|[clojure.by](http://clojure.by/)|
 |Cloud Native Minsk|Clouds, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)<br/> [meetup](https://www.meetup.com/CNCFMinsk/)|
 |CocoaHeads|iOS, Objective C, Swift, C++, Cocoa, Apple|[telegram](https://t.me/CocoaHeadsBelarus)<br/> [facebook](https://www.facebook.com/groups/iosby/about/)<br/> [juniors telegram](https://t.me/laba42)|
 |Comaqa BY|QA|[comaqa.by](http://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
