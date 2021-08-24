@@ -9,7 +9,7 @@
 | Name | Topics | Links |
 |--- |---|:-:|
 |4Front BY|front-end, web, UI|[facebook](https://www.facebook.com/groups/4front/about/)|
-|AEM Community Belarus|AEM, CMS, Adobe|[adobe.com.by](http://www.adobe.com.by/)<br/> [facebook](https://www.facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
+|AEM Community Belarus|AEM, CMS, Adobe|[facebook](https://www.facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
 |Agile сообщество Беларуси|agile|[facebook](https://www.facebook.com/agileby)|
 |Angular Belarus|Angular, front-end, web, JavaScript, UI|[twitter](https://twitter.com/angularbelarus/)<br/> [telegram](https://t.me/angularbelarus)<br/> [meetup](https://www.meetup.com/angularbelarus/)|
 |Angular Minsk|Angular, front-end, web, JavaScript, UI| [telegram](https://t.me/angularminsk) <br/> [facebook](https://www.facebook.com/groups/AngularMinsk)<br/>[twitter](https://twitter.com/angularminsk) <br/> [meetup](https://www.meetup.com/Angular-Minsk/)|
