@@ -87,7 +87,7 @@
 |UX Belarus|UX, design|[facebook](https://www.facebook.com/UXBelarus)<br/> [twitter](https://twitter.com/uxbelarus)|
 |Vitebsk MiniQ||[vk](https://vk.com/vitebsk_miniq)|
 |Web Not Bombs BY||[telegram](https://telegram.me/webnotbombs_by)<br/> [github](https://github.com/webnotbombs)<br/> [twitter](https://twitter.com/webnotbombs_by)|
-|WebSyndicate||[websyndicate.by](https://websyndicate.by/)<br/> [telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)<br/> [meetup](https://www.meetup.com/websyndicate)|
+|WebSyndicate||[telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)<br/> [meetup](https://www.meetup.com/websyndicate)|
 |Weekly Talks (Grodno)||[facebook](https://www.facebook.com/weekly.talks/)<br/> [github](https://github.com/weekly-talks)|
 |Витебская фабрика-лаборатория "РОБОВИТА"|FabLab, robotics, 3D modeling, 3d printing|[robovita.by](http://www.robovita.by/)<br/> [facebook](https://www.facebook.com/robovita/)<br/> [instagram](https://www.instagram.com/robovita_vitebsk/)<br/> [youtube](https://www.youtube.com/channel/UC4yrxz2Y7FK4o8sRyUWH1Vw)<br/> [vk](https://vk.com/robovita_vitebsk)|
 |Дизайн кUXня|UX, UI, design|[facebook](https://www.facebook.com/groups/DesignKitchen/)<br/> [vk](https://vk.com/designkitchen_uxui)|
