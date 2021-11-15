@@ -19,6 +19,7 @@
 |Belarus IT Jobs|job, vacancy|[telegram](https://t.me/belit_jobs)|
 |Belarus Java User Group|Java, JVM|[facebook](https://www.facebook.com/BelarusJavaUserGroup/)<br/> [vk](https://vk.com/belarusjavausergroup)|
 |Belarus Jenkins|Jenkins, Java, CI, CD|[meetup](https://www.meetup.com/Belarus-Jenkins-Meetup/)|
+|Belarus Rust Community|Rust|[rust-lang-by](https://rust-lang-by.github.io/) <br/> [telegram](t.me/rustlang_by_chat)|
 |Belarusian Dev Community||[slack](http://slack.dev.by/)|
 |Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
@@ -63,7 +64,6 @@
 |Minsk Token Economy|blockchain|[meetup](https://www.meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity, game development|[facebook](https://www.facebook.com/groups/unityMinsk/)|
 |Minsk.rb|Ruby, Ruby on Rails|[facebook](https://www.facebook.com/minskruby/)|
-|Minsk Rust community|Rust|[facebook](https://www.facebook.com/groups/1673382339595171/)|
 |MinskCSS|CSS, HTML, UI, web|[facebook](https://www.facebook.com/groups/MinskCSS/)|
 |MinskJS|JavaScript, UI, web, frontend|[facebook](https://www.facebook.com/MinskJS/)<br/> [twitter](https://twitter.com/MinskJS)|
 |MLUG (Minsk Linux User Group)|Linux, *nix|[mlug.linux.by](http://mlug.linux.by/)|
