@@ -4,8 +4,6 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
 [![Check Markdown links](https://github.com/gleb-kosteiko/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/gleb-kosteiko/belarusian-it-communities/actions?query=workflow%3A%22Check+Markdown+links%22)
 
-*Please read the [Contributing Guidelines](https://github.com/gleb-kosteiko/belarusian-it-communities/blob/master/contributing.md) before contributing.*
-
 | Name | Topics | Links |
 |--- |---|:-:|
 |4Front BY|front-end, web, UI|[facebook](https://www.facebook.com/groups/4front/about/)|
@@ -94,6 +92,16 @@
 |Сообщество бизнес и системных аналитиков Беларуси|BA|[analyst.by](http://analyst.by/)|
 |Фаланстер Минск||[facebook](https://www.facebook.com/falanster.by)|
 |ЦМИТ Диптаун|Hackspace, prototyping|[cmit.by](http://cmit.by)|
+
+## Contributing
+
+Please read the [Contributing Guidelines](https://github.com/gleb-kosteiko/belarusian-it-communities/blob/master/contributing.md) before contributing.
+
+## Show your support
+
+Give a ⭐ if this project helped you!
+
+<a href="https://www.buymeacoffee.com/gleb.k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 
 ## License
 
