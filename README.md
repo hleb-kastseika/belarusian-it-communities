@@ -62,7 +62,7 @@
 |Minsk Token Economy|blockchain|[meetup](https://www.meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity, game development|[facebook](https://www.facebook.com/groups/unityMinsk/)|
 |Minsk.rb|Ruby, Ruby on Rails|[facebook](https://www.facebook.com/minskruby/)|
-|MinskCSS|CSS, HTML, UI, web|[facebook](https://www.facebook.com/groups/MinskCSS/)|
+|MinskCSS|CSS, HTML, UI, web|[facebook](https://www.facebook.com/groups/MinskCSS/)<br/> [twitter](https://twitter.com/MinskCSS)<br/> [timepad](https://minskcss.timepad.ru/events/)|
 |MinskJS|JavaScript, UI, web, frontend|[facebook](https://www.facebook.com/MinskJS/)<br/> [twitter](https://twitter.com/MinskJS)|
 |MLUG (Minsk Linux User Group)|Linux, *nix|[mlug.linux.by](http://mlug.linux.by/)|
 |MODX Беларусь|MODX|[facebook](https://www.facebook.com/modxby)|
