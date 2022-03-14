@@ -1,8 +1,8 @@
 # Belarusian IT Communities
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/gleb-kosteiko/belarusian-it-communities/graphs/contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/hleb-kastseika/belarusian-it-communities/graphs/contributors)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
-[![Check Markdown links](https://github.com/gleb-kosteiko/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/gleb-kosteiko/belarusian-it-communities/actions?query=workflow%3A%22Check+Markdown+links%22)
+[![Check Markdown links](https://github.com/hleb-kastseika/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/hleb-kastseika/belarusian-it-communities/actions?query=workflow%3A%22Check+Markdown+links%22)
 
 | Name | Topics | Links |
 |--- |---|:-:|
@@ -95,16 +95,16 @@
 
 ## Contributing
 
-Please read the [Contributing Guidelines](https://github.com/gleb-kosteiko/belarusian-it-communities/blob/master/contributing.md) before contributing.
+Please read the [Contributing Guidelines](https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/contributing.md) before contributing.
 
 ## Show your support
 
 Give a ⭐ if this project helped you!
 
-<a href="https://www.buymeacoffee.com/gleb.k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+<a href="https://www.buymeacoffee.com/hleb.k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Gleb Kosteiko](https://github.com/gleb-kosteiko) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Hleb Kastseika](https://github.com/hleb-kastseika) has waived all copyright and related or neighboring rights to this work.
