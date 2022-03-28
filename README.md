@@ -55,7 +55,7 @@
 |JS Machine (Могилев)|JavaScript, front-end, web, UI|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
 |Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://www.meetup.com/Minsk-Atlassian-User-Group/)|
 |Minsk F# User Group|F#, Microsoft|[facebook](https://www.facebook.com/groups/802737706420426/)<br/> [meetup](https://www.meetup.com/fsharpminsk)|
-|Minsk Java Community|Java, JVM|[mjc.by](https://mjc.by)<br/> [telegram](https://t.me/mjcby)<br/> [youtube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://www.instagram.com/mjc.talks/)|
+|Minsk Java Community|Java, JVM|[telegram](https://t.me/mjcby)<br/> [facebook](https://www.facebook.com/groups/393447772538328)<br/> [youtube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://www.instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://www.facebook.com/minsklegalhackers)|
 |Minsk Python Meetup|Python|[facebook](https://www.facebook.com/MinskPythonMeetup/)|
 |Minsk Test Automation Meetup|test automation|[facebook](https://www.facebook.com/groups/443004672881047/)|
