@@ -66,7 +66,7 @@
 |MinskJS|JavaScript, UI, web, frontend|[facebook](https://www.facebook.com/MinskJS/)<br/> [twitter](https://twitter.com/MinskJS)|
 |MLUG (Minsk Linux User Group)|Linux, *nix|[mlug.linux.by](http://mlug.linux.by/)|
 |MODX Беларусь|MODX|[facebook](https://www.facebook.com/modxby)|
-|Natural Language Processing group Belarus|NLP, data science, data analysis|[nlproc.by](http://nlproc.by/)<br/> [facebook](https://www.facebook.com/groups/nlproc.by/about/)<br/> [twitter](https://twitter.com/nlprocby)<br/> [github](https://github.com/nlprocby)|
+|Natural Language Processing group Belarus|NLP, data science, data analysis|[facebook](https://www.facebook.com/groups/nlproc.by/about/)<br/> [twitter](https://twitter.com/nlprocby)<br/> [github](https://github.com/nlprocby)|
 |.NET User Group|.NET, Microsoft|[facebook](https://www.facebook.com/groups/dotnet.minsk/about/)|
 |Open Data Belarus||[opendata.by](https://opendata.by/)<br/> [facebook](https://www.facebook.com/groups/opendataby/)<br/> [telegram](https://t.me/opendataby)<br/> [github](https://github.com/opendataby)|
 |Open Data Science Minsk|data science, AI, ML|[telegram](https://t.me/odsminsk)|
