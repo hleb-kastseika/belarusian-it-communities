@@ -57,7 +57,7 @@
 |Minsk F# User Group|F#, Microsoft|[facebook](https://www.facebook.com/groups/802737706420426/)<br/> [meetup](https://www.meetup.com/fsharpminsk)|
 |Minsk Java Community|Java, JVM|[telegram](https://t.me/mjcby)<br/> [facebook](https://www.facebook.com/groups/393447772538328)<br/> [youtube](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://www.instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://www.facebook.com/minsklegalhackers)|
-|Minsk Python Meetup|Python|[facebook](https://www.facebook.com/MinskPythonMeetup/)|
+|Minsk Python Meetup|Python|[telegram](https://t.me/minsk_python)<br/>[facebook](https://www.facebook.com/MinskPythonMeetup/)|
 |Minsk Test Automation Meetup|test automation|[facebook](https://www.facebook.com/groups/443004672881047/)|
 |Minsk Token Economy|blockchain|[meetup](https://www.meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity, game development|[facebook](https://www.facebook.com/groups/unityMinsk/)|
