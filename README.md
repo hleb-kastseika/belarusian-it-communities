@@ -23,7 +23,7 @@
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
 |BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](http://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
 |Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
-|ByGIS|GIS, DB|[bygis.by](https://bygis.by/)<br/> [telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
+|ByGIS|GIS, DB|[telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
 |ByOSM|OpenStreetMap|[telegram](https://t.me/byosm)|
 |ByCrypto|cryptography| [telegram](https://t.me/bycryptography)|
 |Cloud Native Minsk|Clouds, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)<br/> [meetup](https://www.meetup.com/CNCFMinsk/)|
