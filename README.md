@@ -74,7 +74,6 @@
 |PHP of BY|PHP|[telegram](https://www.facebook.com/groups/minsk.user.group/about/)|
 |Pro .Net Community|.NET, Microsoft|[facebook](https://www.facebook.com/Pro-Net-community-323866207998632/)|
 |ProductConnect||[facebook](https://www.facebook.com/groups/ProductConnect)|
-|QA Club Minsk|QA|[qaclub.by](http://www.qaclub.by/)|
 |Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://www.facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, functional programing|[facebook](https://www.facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://www.meetup.com/Sitecore-User-Group-Belarus/)|
