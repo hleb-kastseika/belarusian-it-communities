@@ -98,7 +98,7 @@ Please read the [Contributing Guidelines](https://github.com/hleb-kastseika/bela
 
 ## Show your support
 
-Give a ⭐ if this project helped you!
+Give a ⭐ on Github if you like this project! Or you are even able to give a donation:
 
 <a href="https://www.buymeacoffee.com/hleb.k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 
