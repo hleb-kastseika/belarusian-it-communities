@@ -6,7 +6,7 @@
 
 | Name | Topics | Links |
 |--- |---|:-:|
-|#BelCGFree Club|computer graphics CG, open source|[facebook](https://m.facebook.com/groups/belcgfreeclub/)|
+|#BelCGFree Club|computer graphics, CG, open source|[facebook](https://m.facebook.com/groups/belcgfreeclub/)|
 |4Front BY|front-end, web, UI|[facebook](https://www.facebook.com/groups/4front/about/)|
 |AEM Community Belarus|AEM, CMS, Adobe|[facebook](https://www.facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
 |Agile сообщество Беларуси|agile|[facebook](https://www.facebook.com/agileby)|
