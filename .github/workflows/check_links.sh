@@ -9,5 +9,5 @@ do
     echo "URL does not exist: $url - $status"
     exit 1
   fi
-  sleep 5
+  sleep 15
 done
