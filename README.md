@@ -97,12 +97,6 @@
 
 Please read the [Contributing Guidelines](https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/contributing.md) before contributing.
 
-## Show your support
-
-Give a ⭐ on Github if you like this project! Or you are even able to give a donation:
-
-<a href="https://www.buymeacoffee.com/hleb.k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
