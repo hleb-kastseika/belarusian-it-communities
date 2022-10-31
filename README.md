@@ -21,14 +21,14 @@
 |Belarusian Dev Community||[slack](http://slack.dev.by/)|
 |Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[facebook](https://www.facebook.com/Salesforce.by/)<br/> [instagram](https://www.instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://www.linkedin.com/in/salesforce-by-2a415b165/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
-|BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](http://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
+|BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](https://brug.by/)<br/> [facebook](https://www.facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
 |Business Analysis in Belarus|BA|[facebook](https://www.facebook.com/groups/BAinBY/)|
 |ByGIS|GIS, DB|[telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
 |ByOSM|OpenStreetMap|[telegram](https://t.me/byosm)|
 |ByCrypto|cryptography| [telegram](https://t.me/bycryptography)|
 |Cloud Native Minsk|Clouds, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)<br/> [meetup](https://www.meetup.com/CNCFMinsk/)|
 |CocoaHeads|iOS, Objective C, Swift, C++, Cocoa, Apple|[telegram](https://t.me/CocoaHeadsBelarus)<br/> [facebook](https://www.facebook.com/groups/iosby/about/)<br/> [juniors telegram](https://t.me/laba42)|
-|Comaqa BY|QA|[comaqa.by](http://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
+|Comaqa BY|QA|[comaqa.by](https://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
 |ComMIT|education, events|[facebook](https://www.facebook.com/groups/commit.mogilev)<br/> [vk](https://vk.com/com_mit)<br/> [telegram](https://t.me/ComMIT_Chat)<br/> [instagram](https://www.instagram.com/commit.mogilev/)|
 |Create IT!||[facebook](https://www.facebook.com/events/1114878155301214/)<br/> [instagram](https://www.instagram.com/we_createit/)|
 |Cyber Academy|blockchain|[facebook](https://www.facebook.com/cybermeetups/)<br/> [telegram](https://t.me/cyberacademy)<br/> [youtube](https://www.youtube.com/cyberacademy)|
@@ -64,7 +64,7 @@
 |Minsk.rb|Ruby, Ruby on Rails|[facebook](https://www.facebook.com/minskruby/)|
 |MinskCSS|CSS, HTML, UI, web|[facebook](https://www.facebook.com/groups/MinskCSS/)<br/> [twitter](https://twitter.com/MinskCSS)<br/> [timepad](https://minskcss.timepad.ru/events/)|
 |MinskJS|JavaScript, UI, web, frontend|[facebook](https://www.facebook.com/MinskJS/)<br/> [twitter](https://twitter.com/MinskJS)|
-|MLUG (Minsk Linux User Group)|Linux, *nix|[mlug.linux.by](http://mlug.linux.by/)|
+|MLUG (Minsk Linux User Group)|Linux, *nix|[mlug.linux.by](https://mlug.linux.by/)|
 |MODX Беларусь|MODX|[facebook](https://www.facebook.com/modxby)|
 |Natural Language Processing group Belarus|NLP, data science, data analysis|[facebook](https://www.facebook.com/groups/nlproc.by/about/)<br/> [twitter](https://twitter.com/nlprocby)<br/> [github](https://github.com/nlprocby)|
 |.NET User Group|.NET, Microsoft|[facebook](https://www.facebook.com/groups/dotnet.minsk/about/)|
@@ -86,11 +86,11 @@
 |Web Not Bombs BY||[telegram](https://telegram.me/webnotbombs_by)<br/> [github](https://github.com/webnotbombs)<br/> [twitter](https://twitter.com/webnotbombs_by)|
 |WebSyndicate||[telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)<br/> [meetup](https://www.meetup.com/websyndicate)|
 |Weekly Talks (Grodno)||[facebook](https://www.facebook.com/weekly.talks/)<br/> [github](https://github.com/weekly-talks)|
-|Витебская фабрика-лаборатория "РОБОВИТА"|FabLab, robotics, 3D modeling, 3d printing|[robovita.by](http://www.robovita.by/)<br/> [facebook](https://www.facebook.com/robovita/)<br/> [instagram](https://www.instagram.com/robovita_vitebsk/)<br/> [youtube](https://www.youtube.com/channel/UC4yrxz2Y7FK4o8sRyUWH1Vw)<br/> [vk](https://vk.com/robovita_vitebsk)|
+|Витебская фабрика-лаборатория "РОБОВИТА"|FabLab, robotics, 3D modeling, 3d printing|[robovita.by](https://www.robovita.by/)<br/> [facebook](https://www.facebook.com/robovita/)<br/> [instagram](https://www.instagram.com/robovita_vitebsk/)<br/> [youtube](https://www.youtube.com/channel/UC4yrxz2Y7FK4o8sRyUWH1Vw)<br/> [vk](https://vk.com/robovita_vitebsk)|
 |Дизайн кUXня|UX, UI, design|[facebook](https://www.facebook.com/groups/DesignKitchen/)<br/> [vk](https://vk.com/designkitchen_uxui)|
 |Сообщество бизнес и системных аналитиков Беларуси|BA|[analyst.by](http://analyst.by/)|
 |Фаланстер Минск||[facebook](https://www.facebook.com/falanster.by)|
-|ЦМИТ Диптаун|Hackspace, prototyping|[cmit.by](http://cmit.by)|
+|ЦМИТ Диптаун|Hackspace, prototyping|[cmit.by](https://cmit.by)|
 
 ## Contributing
 
@@ -98,6 +98,6 @@ Please read the [Contributing Guidelines](https://github.com/hleb-kastseika/bela
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Hleb Kastseika](https://github.com/hleb-kastseika) has waived all copyright and related or neighboring rights to this work.
