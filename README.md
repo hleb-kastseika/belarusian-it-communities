@@ -2,11 +2,10 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-brightgreen.svg?logo=github)](https://github.com/hleb-kastseika/belarusian-it-communities/graphs/contributors)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg)](LICENSE)
-[![Check Markdown links](https://github.com/hleb-kastseika/belarusian-it-communities/workflows/Check%20Markdown%20links/badge.svg)](https://github.com/hleb-kastseika/belarusian-it-communities/actions?query=workflow%3A%22Check+Markdown+links%22)
 
 | Name | Topics | Links |
 |--- |---|:-:|
-|#BelCGFree Club|computer graphics, CG, open source|[facebook](https://m.facebook.com/groups/belcgfreeclub/)|
+|#BelCGFree Club|computer graphics, CG, open source|[facebook](https://facebook.com/groups/belcgfreeclub/)|
 |4Front BY|front-end, web, UI|[facebook](https://www.facebook.com/groups/4front/about/)|
 |AEM Community Belarus|AEM, CMS, Adobe|[facebook](https://www.facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
 |Agile сообщество Беларуси|agile|[facebook](https://www.facebook.com/agileby)|
