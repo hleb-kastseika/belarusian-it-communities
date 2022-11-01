@@ -10,4 +10,4 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md
-          cmd_params: "--one-page-only --max-connections=3 --color=always --buffer-size=16000 --rate-limit=1 --header='User-Agent:curl/7.54.0' --skip-tls-verification --exclude='(docs.github.com|github-cloud.s3.amazonaws.com|githubusercontent.com)'"
+          cmd_params: "--one-page-only --max-connections=3 --color=always --buffer-size=16000 --rate-limit=1 --header='User-Agent:curl/7.54.0' --skip-tls-verification --exclude=docs.github.com"
