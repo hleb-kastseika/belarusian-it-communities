@@ -10,7 +10,7 @@ jobs:
         id: link-report
         uses: celinekurpershoek/link-checker@master
         with:
-          url: "https://hleb-kastseika.github.io/belarusian-it-communities"
+          url: "https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md"
           honorRobotExclusions: true
           ignorePatterns: ""
           recursiveLinks: false
