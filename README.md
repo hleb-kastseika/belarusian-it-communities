@@ -26,7 +26,7 @@
 |ByGIS|GIS, DB|[telegram](https://t.me/bygis)<br/> [facebook](https://www.facebook.com/groups/bygis/)|
 |ByOSM|OpenStreetMap|[telegram](https://t.me/byosm)|
 |ByCrypto|cryptography| [telegram](https://t.me/bycryptography)|
-|Cloud Native Minsk|Clouds, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)<br/> [meetup](https://www.meetup.com/CNCFMinsk/)|
+|Cloud Native Minsk|Clouds, Cloud Native Computing Foundation, CNCF|[telegram](https://t.me/CNCFMinskChat)<br/> [twitter](https://twitter.com/CncfMinsk)<br/> [facebook](https://www.facebook.com/CNCFMinsk)<br/> [linkedin](https://linkedin.com/company/cncfminsk)|
 |CocoaHeads|iOS, Objective C, Swift, C++, Cocoa, Apple|[telegram](https://t.me/CocoaHeadsBelarus)<br/> [facebook](https://www.facebook.com/groups/iosby/about/)<br/> [juniors telegram](https://t.me/laba42)|
 |Comaqa BY|QA|[comaqa.by](https://comaqa.by/)<br/> [facebook](https://www.facebook.com/comaqa.by)<br/> [vk](https://vk.com/comaqaby)<br/> [youtube](https://www.youtube.com/channel/UCzAhXR53eIvHht9qmFPBVxg)|
 |ComMIT|education, events|[facebook](https://www.facebook.com/groups/commit.mogilev)<br/> [vk](https://vk.com/com_mit)<br/> [telegram](https://t.me/ComMIT_Chat)<br/> [instagram](https://www.instagram.com/commit.mogilev/)|
@@ -37,7 +37,6 @@
 |DevOps|DevOps, CI, CD, build tools|[facebook](https://www.facebook.com/groups/391132934426041/about/)|
 |DevOps Minsk|DevOps, CI, CD, build tools|[devopsminsk.by](https://devopsminsk.by/)<br/> [facebook](https://www.facebook.com/DevOpsMinsk/)</br> [telegram](https://t.me/DevOpsMinskChat)<br/> [linkedin](https://www.linkedin.com/company/devopsminsk/)<br/> [youtube](https://www.youtube.com/c/DevOpsMinsk)<br/> [instagram](https://www.instagram.com/devopsminsk/)|
 |DevOWL Meetup||[vk](https://vk.com/devowl)|
-|Drupal User Group Minsk|Drupal, PHP|[meetup](https://www.meetup.com/drupal-minsk/)|
 |Free Code Camp Minsk|Open Source|[facebook](https://www.facebook.com/groups/free.code.camp.Minsk/about/)|
 |FuncBY|functional programing, Lisp, Haskel, Clojure, Scala|[facebook](https://www.facebook.com/groups/funcby/about/)|
 |Game Jam|game development|[facebook](https://www.facebook.com/groups/ggjby)|
@@ -84,7 +83,7 @@
 |UX Belarus|UX, design|[facebook](https://www.facebook.com/UXBelarus)<br/> [twitter](https://twitter.com/uxbelarus)|
 |Vitebsk MiniQ||[vk](https://vk.com/vitebsk_miniq)|
 |Web Not Bombs BY||[telegram](https://telegram.me/webnotbombs_by)<br/> [github](https://github.com/webnotbombs)<br/> [twitter](https://twitter.com/webnotbombs_by)|
-|WebSyndicate||[telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)<br/> [meetup](https://www.meetup.com/websyndicate)|
+|WebSyndicate||[telegram](https://t.me/websyndicate)<br/> [facebook](https://www.facebook.com/groups/websyndicate)|
 |Weekly Talks (Grodno)||[facebook](https://www.facebook.com/weekly.talks/)<br/> [github](https://github.com/weekly-talks)|
 |Витебская фабрика-лаборатория "РОБОВИТА"|FabLab, robotics, 3D modeling, 3d printing|[robovita.by](https://www.robovita.by/)<br/> [facebook](https://www.facebook.com/robovita/)<br/> [instagram](https://www.instagram.com/robovita_vitebsk/)<br/> [youtube](https://www.youtube.com/channel/UC4yrxz2Y7FK4o8sRyUWH1Vw)<br/> [vk](https://vk.com/robovita_vitebsk)|
 |Дизайн кUXня|UX, UI, design|[facebook](https://www.facebook.com/groups/DesignKitchen/)<br/> [vk](https://vk.com/designkitchen_uxui)|
