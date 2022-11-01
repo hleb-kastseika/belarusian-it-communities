@@ -8,9 +8,11 @@ jobs:
     steps:
       - name: Check for broken links
         id: link-report
-        uses: celinekurpershoek/link-checker@v1.0.2
+        uses: celinekurpershoek/link-checker@master
         with:
-          url: "https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md"
+          url: "https://hleb-kastseika.github.io/belarusian-it-communities"
+          honorRobotExclusions: true
+          ignorePatterns: ""
           recursiveLinks: false
       - name: Get the result
         run: echo "${{steps.link-report.outputs.result}}"
