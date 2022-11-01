@@ -10,9 +10,9 @@ jobs:
         id: link-report
         uses: celinekurpershoek/link-checker@master
         with:
-          url: "https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md"
+          url: "https://github.com/hleb-kastseika/belarusian-it-communities"
           honorRobotExclusions: true
           ignorePatterns: ""
-          recursiveLinks: false
+          recursiveLinks: true
       - name: Get the result
         run: echo "${{steps.link-report.outputs.result}}"
