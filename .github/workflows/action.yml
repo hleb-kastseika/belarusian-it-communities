@@ -18,4 +18,4 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md
-          cmd_params: "--verbose --one-page-only --color=always --buffer-size=16000 --rate-limit=1 --max-connections=1 --skip-tls-verification --exclude=.*docs.github.com.* --exclude=.*github.com/hleb-kastseika/belarusian-it-communities.* --exclude=.*docs.github.com.* --exclude=.*github-cloud.s3.amazonaws.com.* --exclude=.*user-images.githubusercontent.com.*"
+          cmd_params: "--verbose --one-page-only --color=always --buffer-size=16000 --header='User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0' --rate-limit=1 --max-connections=1 --skip-tls-verification --exclude=.*docs.github.com.* --exclude=.*github.com/hleb-kastseika/belarusian-it-communities.* --exclude=.*docs.github.com.* --exclude=.*github-cloud.s3.amazonaws.com.* --exclude=.*user-images.githubusercontent.com.*"
