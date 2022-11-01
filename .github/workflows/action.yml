@@ -1,23 +1,16 @@
-name: Check Markdown links
-
-on: 
-  push:
-    branches:
-    - master
-  pull_request:
-    branches:
-    - master
-  schedule:
-  - cron: "0 0 * * 0"
+name: Broken link check
+on: [push]
 
 jobs:
-  build:
-    name: Check links
+  broken_link_checker_job:
     runs-on: ubuntu-latest
+    name: Check for broken links
     steps:
-    - uses: actions/checkout@v2
-    - name: Run check links script
-      run: |
-        cd .github/workflows
-        chmod +x ./check_links.sh
-        ./check_links.sh
+      - name: Check for broken links
+        id: link-report
+        uses: celinekurpershoek/link-checker@v1.0.2
+        with:
+          url: "https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md"
+          recursiveLinks: false
+      - name: Get the result
+        run: echo "${{steps.link-report.outputs.result}}"
