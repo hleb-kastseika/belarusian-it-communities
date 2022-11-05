@@ -31,3 +31,4 @@ jobs:
             --exclude=.*docs.github.com.*
             --exclude=.*github-cloud.s3.amazonaws.com.*
             --exclude=.*user-images.githubusercontent.com.*
+            --exclude=.*linkedin.com.*
