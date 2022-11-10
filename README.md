@@ -11,7 +11,7 @@
 |Agile сообщество Беларуси|agile|[facebook](https://facebook.com/agileby)|
 |Angular Belarus|Angular, front-end, web, JavaScript, UI|[twitter](https://twitter.com/angularbelarus/)<br/> [telegram](https://t.me/angularbelarus)<br/> [meetup](https://meetup.com/angularbelarus/)|
 |Angular Minsk|Angular, front-end, web, JavaScript, UI| [telegram](https://t.me/angularminsk) <br/> [facebook](https://facebook.com/groups/AngularMinsk)<br/>[twitter](https://twitter.com/angularminsk) <br/> [meetup](https://meetup.com/Angular-Minsk/)|
-|AWS Minsk|AWS, clouds|[telegram](https://t.me/aws_minsk)</br> [meetup](https://meetup.com/AWS-Meetup-Minsk/)|
+|AWS Minsk|AWS, clouds|[telegram](https://t.me/aws_minsk)|
 |Belarus Azure User Group|Azure, clouds|[facebook](https://facebook.com/groups/AzureBelarus/about/)|
 |Belarus Big Data User Group|big data, Hadoop, Apache Cassandra, NoSQL|[youtube](https://youtube.com/channel/UCTSHAPIsJvwXHkDdQ1L-r8w)<br/>[vk](https://vk.com/belarus.big_data.user.group)|
 |Belarus IT Jobs|job, vacancy|[telegram](https://t.me/belit_jobs)|
