@@ -73,6 +73,7 @@
 |PHP of BY|PHP|[telegram](https://facebook.com/groups/minsk.user.group/about/)|
 |Pro .Net Community|.NET, Microsoft|[facebook](https://facebook.com/Pro-Net-community-323866207998632/)|
 |ProductConnect||[facebook](https://facebook.com/groups/ProductConnect)|
+|RUST Belarus|Rust|[telegram](https://t.me/rust_belarus)|
 |Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, functional programing|[facebook](https://facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://meetup.com/Sitecore-User-Group-Belarus/)|
