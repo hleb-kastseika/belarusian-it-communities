@@ -18,7 +18,6 @@
 |Belarus Java User Group|Java, JVM|[facebook](https://facebook.com/BelarusJavaUserGroup/)<br/> [vk](https://vk.com/belarusjavausergroup)|
 |Belarus Jenkins|Jenkins, Java, CI, CD|[meetup](https://meetup.com/Belarus-Jenkins-Meetup/)|
 |Belarus Rust Community|Rust|[rust-lang-by](https://rust-lang-by.github.io/) <br/> [telegram](https://t.me/rustlang_by_chat)|
-|Belarusian Dev Community||[slack](http://slack.dev.by/)|
 |Belarusian Salesforce Community|Salesforce, CRM, Apex, Visualforce|[facebook](https://facebook.com/Salesforce.by/)<br/> [instagram](https://instagram.com/salesforce_by/)<br/> [vk](https://vk.com/salesforceby)<br/> [twitter](https://twitter.com/salesforce_by)<br/> [linkedin](https://linkedin.com/in/salesforce-by-2a415b165/)|
 |BKUG (Belarus Kotlin User Group)|Kotlin, JVM|[bkug.by](https://bkug.by/)<br/> [telegram](https://t.me/kotlin_lang)<br/> [twitter](https://twitter.com/BelarusKUG)<br/> [youtube](https://youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)<br/> [github](https://github.com/KotlinBy)|
 |BRUG (Belarus Ruby User Group)|Ruby, Ruby on Rails|[brug.by](https://brug.by/)<br/> [facebook](https://facebook.com/ByRoR/)<br/> [vk](https://vk.com/belarusrubyusergroup)|
