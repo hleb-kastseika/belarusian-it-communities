@@ -38,4 +38,4 @@ jobs:
           -u "${{ secrets.ACTIONS_KEY }}" \
           -H "Accept: application/vnd.github" \
           -H "Content-Type: application/json" \
-          --data '{"ref": "main" }'
+          --data '{"event_type": "Trigger Workflow", "client_payload": { "repository": "'"$GITHUB_REPOSITORY"'" }}'
