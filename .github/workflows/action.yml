@@ -32,3 +32,10 @@ jobs:
             --exclude=.*github-cloud.s3.amazonaws.com.*
             --exclude=.*user-images.githubusercontent.com.*
             --exclude=.*linkedin.com.*
+      - name: Trigger downstream workflow
+        run: |
+          curl -XPOST https://api.github.com/repos/hleb-kastseika/hleb-dev-website/dispatches \
+          -u "${{ secrets.ACTIONS_KEY }}" \
+          -H "Accept: application/vnd.github" \
+          -H "Content-Type: application/json" \
+          --data '{"ref": "main" }'
