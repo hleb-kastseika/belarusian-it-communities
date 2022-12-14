@@ -33,6 +33,7 @@ jobs:
             --exclude=.*user-images.githubusercontent.com.*
             --exclude=.*linkedin.com.*
       - name: Trigger downstream workflow
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         run: |
           curl -X POST \
           -H "Authorization: Bearer ${{secrets.ACTIONS_KEY}}" \
