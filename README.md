@@ -10,10 +10,10 @@
 |AEM Community Belarus|AEM, CMS, Adobe|[facebook](https://facebook.com/groups/AEMBelarus/?pnref=story)<br/> [github](https://github.com/AEMBelarus)|
 |Agile сообщество Беларуси|agile|[facebook](https://facebook.com/agileby)|
 |Angular Belarus|Angular, front-end, web, JavaScript, UI|[twitter](https://twitter.com/angularbelarus/)<br/> [telegram](https://t.me/angularbelarus)<br/> [meetup](https://meetup.com/angularbelarus/)|
-|Angular Minsk|Angular, front-end, web, JavaScript, UI| [telegram](https://t.me/angularminsk) <br/> [facebook](https://facebook.com/groups/AngularMinsk)<br/>[twitter](https://twitter.com/angularminsk) <br/> [meetup](https://meetup.com/Angular-Minsk/)|
+|Angular Minsk|Angular, front-end, web, JavaScript, UI| [telegram](https://t.me/angularminsk) <br/> [facebook](https://facebook.com/groups/AngularMinsk)<br/> [twitter](https://twitter.com/angularminsk) <br/> [meetup](https://meetup.com/Angular-Minsk/)|
 |AWS Minsk|AWS, clouds|[telegram](https://t.me/aws_minsk)|
 |Belarus Azure User Group|Azure, clouds|[facebook](https://facebook.com/groups/AzureBelarus/about/)|
-|Belarus Big Data User Group|big data, Hadoop, Apache Cassandra, NoSQL|[youtube](https://youtube.com/channel/UCTSHAPIsJvwXHkDdQ1L-r8w)<br/>[vk](https://vk.com/belarus.big_data.user.group)|
+|Belarus Big Data User Group|big data, Hadoop, Apache Cassandra, NoSQL|[youtube](https://youtube.com/channel/UCTSHAPIsJvwXHkDdQ1L-r8w)<br/> [vk](https://vk.com/belarus.big_data.user.group)|
 |Belarus IT Jobs|job, vacancy|[telegram](https://t.me/belit_jobs)|
 |Belarus Java User Group|Java, JVM|[facebook](https://facebook.com/BelarusJavaUserGroup/)<br/> [vk](https://vk.com/belarusjavausergroup)|
 |Belarus Jenkins|Jenkins, Java, CI, CD|[meetup](https://meetup.com/Belarus-Jenkins-Meetup/)|
@@ -55,7 +55,7 @@
 |Minsk F# User Group|F#, Microsoft|[facebook](https://facebook.com/groups/802737706420426/)<br/> [meetup](https://meetup.com/fsharpminsk)|
 |Minsk Java Community|Java, JVM|[telegram](https://t.me/mjcby)<br/> [facebook](https://facebook.com/groups/393447772538328)<br/> [youtube](https://youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://facebook.com/minsklegalhackers)|
-|Minsk Python Meetup|Python|[telegram](https://t.me/minsk_python)<br/>[facebook](https://facebook.com/MinskPythonMeetup/)|
+|Minsk Python Meetup|Python|[telegram](https://t.me/minsk_python)<br/> [facebook](https://facebook.com/MinskPythonMeetup/)|
 |Minsk Test Automation Meetup|test automation|[facebook](https://facebook.com/groups/443004672881047/)|
 |Minsk Token Economy|blockchain|[meetup](https://meetup.com/Minsk-Token-Economy-Meetup/)|
 |Minsk Unity 3D User Group|Unity, game development|[facebook](https://facebook.com/groups/unityMinsk/)|
@@ -76,7 +76,7 @@
 |Salesforce Professionals Belarus|Salesforce, CRM|[facebook](https://facebook.com/salesforceprofessionalsby/)|
 |Scala|Scala, JVM, functional programing|[facebook](https://facebook.com/scala.enthusiastsbelarus)|
 |Sitecore User Group Belarus|Sitecore Experience Platform|[meetup](https://meetup.com/Sitecore-User-Group-Belarus/)|
-|Solution Architects Gomel community|SA|[community-z](https://community-z.com/communities/sa-gomel)<br/>[facebook](https://facebook.com/groups/SolutionArchitectureGomel)<br/>[linkedin](https://linkedin.com/groups/8816868/)|
+|Solution Architects Gomel community|SA|[community-z](https://community-z.com/communities/sa-gomel)<br/> [facebook](https://facebook.com/groups/SolutionArchitectureGomel)<br/> [linkedin](https://linkedin.com/groups/8816868/)|
 |Storm the Front|front-end, UI, web, JavaScript|[telegram](https://t.me/storm_the_front)<br/> [facebook](https://facebook.com/groups/storm.the.front/)<br/> [vk](https://vk.com/storm_the_front)|
 |The Rolling Scopes|front-end, UI, web, JavaScript|[telegram](https://t.me/therollingscopes)<br/>  [facebook](https://facebook.com/groups/TheRollingScopes/about/)<br/> [twitter](https://twitter.com/rollingscopes)|
 |UX/UI дизайнеры Беларуси|UX, UI, design|[telegram](https://t.me/designers_belarus)|
