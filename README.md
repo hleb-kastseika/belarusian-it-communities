@@ -51,7 +51,6 @@
 |IT Shark||[telegram](https://t.me/itsharkpro)<br/> [facebook](https://facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
 |JProf BY|Java, JVM|[jprof.by](https://jprof.by/)<br/> [facebook](https://facebook.com/javaprofessionalsby)<br/> [vk](https://vk.com/javaprofessionalsby)<br/> [youtube](https://youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q)<br/> [github](https://github.com/JavaBy)|
 |JS Machine (Могилев)|JavaScript, front-end, web, UI|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
-|Minsk Atlassian User Group|Atlassian, Jira, Workflow, Confluence|[meetup](https://meetup.com/Minsk-Atlassian-User-Group/)|
 |Minsk F# User Group|F#, Microsoft|[facebook](https://facebook.com/groups/802737706420426/)<br/> [meetup](https://meetup.com/fsharpminsk)|
 |Minsk Java Community|Java, JVM|[telegram](https://t.me/mjcby)<br/> [facebook](https://facebook.com/groups/393447772538328)<br/> [youtube](https://youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://facebook.com/minsklegalhackers)|
