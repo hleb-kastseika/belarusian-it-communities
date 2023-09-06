@@ -84,6 +84,7 @@
 |Web Not Bombs BY||[telegram](https://telegram.me/webnotbombs_by)<br/> [github](https://github.com/webnotbombs)<br/> [twitter](https://twitter.com/webnotbombs_by)|
 |WebSyndicate||[telegram](https://t.me/websyndicate)<br/> [facebook](https://facebook.com/groups/websyndicate)|
 |Weekly Talks (Grodno)||[facebook](https://facebook.com/weekly.talks/)<br/> [github](https://github.com/weekly-talks)|
+|Беларускі ШІ|AI, ML, DS, LLMs, Translations|[telegram](https://t.me/belarusai)|
 |Витебская фабрика-лаборатория "РОБОВИТА"|FabLab, robotics, 3D modeling, 3d printing|[robovita.by](https://robovita.by/)<br/> [facebook](https://facebook.com/robovita/)<br/> [instagram](https://instagram.com/robovita_vitebsk/)<br/> [youtube](https://youtube.com/channel/UC4yrxz2Y7FK4o8sRyUWH1Vw)<br/> [vk](https://vk.com/robovita_vitebsk)|
 |Дизайн кUXня|UX, UI, design|[facebook](https://facebook.com/groups/DesignKitchen/)<br/> [vk](https://vk.com/designkitchen_uxui)|
 |Сообщество бизнес и системных аналитиков Беларуси|BA|[analyst.by](http://analyst.by/)|
