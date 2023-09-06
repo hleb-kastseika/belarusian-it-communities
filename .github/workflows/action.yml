@@ -1,20 +1,22 @@
-name: Check broken links
+name: Check broken links and trigger deploy to website
 on:
   push:
     branches:
-    - master
+      - master
   pull_request:
     branches:
-    - master
+      - master
+    types: 
+      - closed
   schedule:
-  - cron: "0 0 * * 0"
+    - cron: "0 0 * * 0"
 
 jobs:
-  my-broken-link-checker:
+  broken-link-checker:
     name: Check broken links
     runs-on: ubuntu-latest
     steps:
-      - name: Check
+      - name: Check links
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://github.com/hleb-kastseika/belarusian-it-communities/blob/master/README.md
@@ -33,7 +35,6 @@ jobs:
             --exclude=.*user-images.githubusercontent.com.*
             --exclude=.*linkedin.com.*
       - name: Trigger downstream workflow
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         run: |
           curl -X POST \
           -H "Authorization: Bearer ${{secrets.ACTIONS_KEY}}" \
