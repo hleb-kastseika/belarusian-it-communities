@@ -29,6 +29,7 @@ jobs:
             --max-connections=1
             --skip-tls-verification
             --exclude=.*docs.github.com.*
+            --exclude=.*education.github.com.*
             --exclude=.*github.com/hleb-kastseika/belarusian-it-communities.*
             --exclude=.*docs.github.com.*
             --exclude=.*github-cloud.s3.amazonaws.com.*
