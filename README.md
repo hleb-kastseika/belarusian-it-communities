@@ -66,7 +66,7 @@
 |MODX Беларусь|MODX|[facebook](https://facebook.com/modxby)|
 |Natural Language Processing group Belarus|NLP, data science, data analysis|[facebook](https://facebook.com/groups/nlproc.by/about/)<br/> [twitter](https://twitter.com/nlprocby)<br/> [github](https://github.com/nlprocby)|
 |.NET User Group|.NET, Microsoft|[facebook](https://facebook.com/groups/dotnet.minsk/about/)|
-|Open Data Belarus||[opendata.by](http://opendata.by/)<br/> [facebook](https://facebook.com/groups/opendataby/)<br/> [telegram](https://t.me/opendataby)<br/> [github](https://github.com/opendataby)|
+|Open Data Belarus||[facebook](https://facebook.com/groups/opendataby/)<br/> [telegram](https://t.me/opendataby)<br/> [github](https://github.com/opendataby)|
 |Open Data Science Minsk|data science, AI, ML|[telegram](https://t.me/odsminsk)|
 |OpenStreetMap Беларусь|OpenStreetMap|[telegram](https://t.me/byosm)|
 |PHP of BY|PHP|[telegram](https://facebook.com/groups/minsk.user.group/about/)|
