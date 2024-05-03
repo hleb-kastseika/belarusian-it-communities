@@ -51,7 +51,7 @@
 |IT Shark||[telegram](https://t.me/itsharkpro)<br/> [facebook](https://facebook.com/itsharkpro/)<br/> [twitter](https://twitter.com/itsharkpro)|
 |JProf BY|Java, JVM|[jprof.by](https://jprof.by/)<br/> [facebook](https://facebook.com/javaprofessionalsby)<br/> [vk](https://vk.com/javaprofessionalsby)<br/> [youtube](https://youtube.com/channel/UCDjCCgjlyR7uzhH7ZyTGn4Q)<br/> [github](https://github.com/JavaBy)|
 |JS Machine (Могилев)|JavaScript, front-end, web, UI|[vk](https://vk.com/jsmachine)<br/> [telegram](https://t.me/js_machine)<br/> [github](https://github.com/js-machine/dashboard)|
-|Linux па-беларуску|Linux|[gnulinux.be](https://gnulinux.be/)<br/> [telegram](https://t.me/GNULinuxBe)<br/> [mastodon](https://vkl.world/@gnulinuxbe)<br> [matrix](https://matrix.to/#/#gnulinux-be:matrix.org)<br/> [bluesky](https://bsky.app/profile/gnulinux.be)|
+|Linux па-беларуску|Linux|[gnulinux.be](https://gnulinux.be/)<br/> [telegram](https://t.me/GNULinuxBe)<br/> [mastodon](https://vkl.world/@gnulinuxbe)<br> [bluesky](https://bsky.app/profile/gnulinux.be)|
 |Minsk F# User Group|F#, Microsoft|[facebook](https://facebook.com/groups/802737706420426/)<br/> [meetup](https://meetup.com/fsharpminsk)|
 |Minsk Java Community|Java, JVM|[telegram](https://t.me/mjcby)<br/> [facebook](https://facebook.com/groups/393447772538328)<br/> [youtube](https://youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)<br/> [instagram](https://instagram.com/mjc.talks/)|
 |Minsk Legal Hackers||[facebook](https://facebook.com/minsklegalhackers)|
